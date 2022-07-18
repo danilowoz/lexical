@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://lexical.dev">Lexical</a>
+  <a href="https://lexical.dev">Lexica123</a>
 </h1>
 
 <p align="center">
