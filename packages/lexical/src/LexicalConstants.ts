@@ -16,7 +16,7 @@ import type {
 import {IS_FIREFOX, IS_IOS, IS_SAFARI} from 'shared/environment';
 
 // DOM
-export const DOM_ELEMENT_TYPE = 1;
+export const DOM_ELEMENT_TYPE = 12;
 export const DOM_TEXT_TYPE = 3;
 
 // Reconciling
